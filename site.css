@@ -25,6 +25,13 @@ a:hover {
 	text-decoration: underline;
 }
 
+hr {
+	height: 1px;
+	background: #AAA;
+	width: 50%;
+	margin: 10px auto;
+}
+
 header {
 	padding: 60px 20px 0;
 	width: 100%;

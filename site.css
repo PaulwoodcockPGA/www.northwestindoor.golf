@@ -259,7 +259,15 @@ span.highlight {
 	width: 50%;
 }
 
+#fitting h3 {
+	margin: 20px auto;
+}
+
 #fitting img {
+	margin-top: 20px;
+}
+
+#brands img {
 	max-width: 130px;
 	margin: 20px 20px 0;
 }
@@ -405,7 +413,7 @@ footer img {
 		max-width: 100%;
 	}
 
-	#fitting img {
+	#brands img {
 		max-width: 40%;
 	}
 
